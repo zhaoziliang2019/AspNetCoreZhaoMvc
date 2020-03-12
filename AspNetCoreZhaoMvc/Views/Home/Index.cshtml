@@ -1,0 +1,11 @@
+﻿@model AspNetCoreZhaoMvc.Domain.Student
+    <form method="post">
+        <a asp-action="Detail" asp-route-id=""></a>
+        <div><label asp-for="FirstName"></label>
+             <input asp-for="FirstName" />
+             <span asp-validation-for="FirstName"></span>
+        </div>
+        <div><label asp-for="LastName"></label><input asp-for="LastName" /></div>
+        <div><label asp-for="FirstName"></label><input asp-for="FirstName" /></div>
+        <button type="submit" name="Save">保存</button>
+    </form>
