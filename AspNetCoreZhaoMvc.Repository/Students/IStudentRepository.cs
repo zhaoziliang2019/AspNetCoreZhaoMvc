@@ -8,6 +8,7 @@ namespace AspNetCoreZhaoMvc.Repository.Students
 {
     public interface IStudentRepository:IBaseRepository<Student>
     {
-        
+       
+
     }
 }

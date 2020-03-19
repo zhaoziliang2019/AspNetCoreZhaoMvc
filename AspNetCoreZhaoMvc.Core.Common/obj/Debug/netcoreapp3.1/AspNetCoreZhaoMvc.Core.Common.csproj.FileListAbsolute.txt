@@ -1,0 +1,8 @@
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Core.Common\bin\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Core.Common.deps.json
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Core.Common\bin\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Core.Common.dll
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Core.Common\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Core.Common.AssemblyInfoInputs.cache
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Core.Common\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Core.Common.AssemblyInfo.cs
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Core.Common\bin\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Core.Common.pdb
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Core.Common\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Core.Common.dll
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Core.Common\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Core.Common.pdb
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Core.Common\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Core.Common.csprojAssemblyReference.cache

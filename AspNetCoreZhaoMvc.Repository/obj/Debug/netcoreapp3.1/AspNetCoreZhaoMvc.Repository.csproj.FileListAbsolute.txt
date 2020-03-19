@@ -1,11 +1,11 @@
-E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Repository\bin\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Repository.deps.json
-E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Repository\bin\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Repository.dll
-E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Repository\bin\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Repository.pdb
 E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Repository\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Repository.csprojAssemblyReference.cache
 E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Repository\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Repository.AssemblyInfoInputs.cache
 E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Repository\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Repository.AssemblyInfo.cs
-E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Repository\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Repository.dll
-E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Repository\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Repository.pdb
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Repository\bin\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Repository.deps.json
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Repository\bin\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Repository.dll
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Repository\bin\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Repository.pdb
 E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Repository\bin\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Domain.dll
 E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Repository\bin\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Domain.pdb
 E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Repository\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Repository.csproj.CopyComplete
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Repository\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Repository.dll
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Repository\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Repository.pdb

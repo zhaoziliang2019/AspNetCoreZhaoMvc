@@ -1,11 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace AspNetCoreZhaoMvc.Repository.BaseRepositorys
 {
-    public interface IBaseRepository<T> where T:class
+    public interface IBaseRepository<TEntity> where TEntity : class
     {
-        public IEnumerable<T> GetAlls();
+        public Task<IEnumerable<TEntity>> GetAlls();
+        public Task<TEntity> GetById(object Id);
+        public Task<bool> Add(TEntity model);
     }
 }

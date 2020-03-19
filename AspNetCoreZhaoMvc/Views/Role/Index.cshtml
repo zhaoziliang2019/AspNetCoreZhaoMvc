@@ -1,0 +1,20 @@
+﻿@model  IEnumerable<ApplicationUser>
+<h2>@ViewBag.Title</h2>
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">角色ID</th>
+            <th scope="col">角色ID</th>
+            <th scope="col">角色ID</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var r in Model)
+        {
+            <tr>
+                <th scope="row">@r.Id</th>
+                <td>@r.UserName</td>
+            </tr>
+        }
+    </tbody>
+</table>

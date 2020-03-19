@@ -1,0 +1,13 @@
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Service\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Service.AssemblyInfoInputs.cache
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Service\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Service.AssemblyInfo.cs
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Service\bin\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Service.deps.json
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Service\bin\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Service.dll
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Service\bin\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Service.pdb
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Service\bin\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Domain.dll
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Service\bin\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Repository.dll
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Service\bin\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Domain.pdb
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Service\bin\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Repository.pdb
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Service\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Service.csprojAssemblyReference.cache
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Service\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Service.csproj.CopyComplete
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Service\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Service.dll
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Service\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Service.pdb

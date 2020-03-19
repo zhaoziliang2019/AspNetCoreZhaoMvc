@@ -1,7 +1,8 @@
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Domain\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Domain.AssemblyInfoInputs.cache
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Domain\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Domain.AssemblyInfo.cs
 E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Domain\bin\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Domain.deps.json
 E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Domain\bin\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Domain.dll
 E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Domain\bin\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Domain.pdb
-E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Domain\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Domain.AssemblyInfoInputs.cache
-E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Domain\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Domain.AssemblyInfo.cs
 E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Domain\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Domain.dll
 E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Domain\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Domain.pdb
+E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc.Domain\obj\Debug\netcoreapp3.1\AspNetCoreZhaoMvc.Domain.csprojAssemblyReference.cache

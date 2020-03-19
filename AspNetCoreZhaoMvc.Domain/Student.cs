@@ -12,5 +12,7 @@ namespace AspNetCoreZhaoMvc.Domain
         public string FirstName { get; set; }
         [Display(Name = "名")]
         public string LastName { get; set; }
+
+        public int Id { get; set; }
     }
 }

@@ -1,0 +1,18 @@
+﻿@model IEnumerable<Student> 
+    <table>
+        <thead>
+            <tr>
+                <th>编号</th>
+                <th>姓</th>
+                <th>名</th>
+            </tr>
+        </thead>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.FirstName</td>
+                    <td>@item.LastName</td>
+                </tr>
+            }
+    </table>

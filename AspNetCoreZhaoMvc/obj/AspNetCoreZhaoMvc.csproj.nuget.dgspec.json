@@ -4,6 +4,72 @@
     "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.csproj": {}
   },
   "projects": {
+    "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Core.Common\\AspNetCoreZhaoMvc.Core.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Core.Common\\AspNetCoreZhaoMvc.Core.Common.csproj",
+        "projectName": "AspNetCoreZhaoMvc.Core.Common",
+        "projectPath": "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Core.Common\\AspNetCoreZhaoMvc.Core.Common.csproj",
+        "packagesPath": "C:\\Users\\zhao\\.nuget\\packages\\",
+        "outputPath": "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Core.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zhao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.0.601, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Domain\\AspNetCoreZhaoMvc.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -56,14 +122,14 @@
         }
       }
     },
-    "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.csproj": {
+    "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Repository\\AspNetCoreZhaoMvc.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.csproj",
-        "projectName": "AspNetCoreZhaoMvc",
-        "projectPath": "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.csproj",
+        "projectUniqueName": "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Repository\\AspNetCoreZhaoMvc.Repository.csproj",
+        "projectName": "AspNetCoreZhaoMvc.Repository",
+        "projectPath": "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Repository\\AspNetCoreZhaoMvc.Repository.csproj",
         "packagesPath": "C:\\Users\\zhao\\.nuget\\packages\\",
-        "outputPath": "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc\\obj\\",
+        "outputPath": "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zhao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -94,9 +160,165 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Service\\AspNetCoreZhaoMvc.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Service\\AspNetCoreZhaoMvc.Service.csproj",
+        "projectName": "AspNetCoreZhaoMvc.Service",
+        "projectPath": "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Service\\AspNetCoreZhaoMvc.Service.csproj",
+        "packagesPath": "C:\\Users\\zhao\\.nuget\\packages\\",
+        "outputPath": "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zhao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Domain\\AspNetCoreZhaoMvc.Domain.csproj": {
+                "projectPath": "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Domain\\AspNetCoreZhaoMvc.Domain.csproj"
+              },
+              "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Repository\\AspNetCoreZhaoMvc.Repository.csproj": {
+                "projectPath": "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Repository\\AspNetCoreZhaoMvc.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.csproj",
+        "projectName": "AspNetCoreZhaoMvc",
+        "projectPath": "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.csproj",
+        "packagesPath": "C:\\Users\\zhao\\.nuget\\packages\\",
+        "outputPath": "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zhao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Core.Common\\AspNetCoreZhaoMvc.Core.Common.csproj": {
+                "projectPath": "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Core.Common\\AspNetCoreZhaoMvc.Core.Common.csproj"
+              },
+              "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Domain\\AspNetCoreZhaoMvc.Domain.csproj": {
+                "projectPath": "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Domain\\AspNetCoreZhaoMvc.Domain.csproj"
+              },
+              "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Repository\\AspNetCoreZhaoMvc.Repository.csproj": {
+                "projectPath": "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Repository\\AspNetCoreZhaoMvc.Repository.csproj"
+              },
+              "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Service\\AspNetCoreZhaoMvc.Service.csproj": {
+                "projectPath": "E:\\software\\code\\AspNetCoreZhaoMvc\\AspNetCoreZhaoMvc.Service\\AspNetCoreZhaoMvc.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.1, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.19, )"
             }
           },
           "imports": [

@@ -1,0 +1,6 @@
+﻿
+@{
+    List<Student> Slist = ViewBag.SList;
+}
+<partial name="_StudentTable" for="@Slist"/>
+@Component.InvokeAsync("Welcome");
