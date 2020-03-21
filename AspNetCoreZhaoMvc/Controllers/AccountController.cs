@@ -85,6 +85,7 @@ namespace AspNetCoreZhaoMvc.Controllers
         /// </summary>
         /// <returns></returns>
         [HttpPost]
+        [IgnoreAntiforgeryToken]//关闭token验证
         public async Task<IActionResult> Loginout()
         {
             await signInManager.SignOutAsync();

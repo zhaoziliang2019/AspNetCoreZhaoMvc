@@ -1,0 +1,26 @@
+2020-03-21 16:50:37.522 +08:00 [INF] User profile is available. Using 'C:\Users\zhao\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-03-21 16:50:38.761 +08:00 [INF] Now listening on: http://localhost:5000
+2020-03-21 16:50:38.764 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-03-21 16:50:38.765 +08:00 [INF] Hosting environment: Development
+2020-03-21 16:50:38.766 +08:00 [INF] Content root path: E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc
+2020-03-21 16:50:39.431 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/  
+2020-03-21 16:50:39.638 +08:00 [INF] Executing endpoint 'AspNetCoreZhaoMvc.Controllers.HomeController.Index (AspNetCoreZhaoMvc)'
+2020-03-21 16:50:39.991 +08:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller AspNetCoreZhaoMvc.Controllers.HomeController (AspNetCoreZhaoMvc).
+2020-03-21 16:50:40.035 +08:00 [INF] Executing ViewResult, running view Index.
+2020-03-21 16:50:40.525 +08:00 [INF] Executed ViewResult - view Index executed in 506.3254ms.
+2020-03-21 16:50:40.539 +08:00 [INF] Executed action AspNetCoreZhaoMvc.Controllers.HomeController.Index (AspNetCoreZhaoMvc) in 544.7161ms
+2020-03-21 16:50:40.550 +08:00 [INF] Executed endpoint 'AspNetCoreZhaoMvc.Controllers.HomeController.Index (AspNetCoreZhaoMvc)'
+2020-03-21 16:50:40.619 +08:00 [INF] Request finished in 1212.9295ms 200 text/html; charset=utf-8
+2020-03-21 17:12:09.722 +08:00 [INF] User profile is available. Using 'C:\Users\zhao\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-03-21 17:12:10.400 +08:00 [INF] Now listening on: http://localhost:5000
+2020-03-21 17:12:10.401 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-03-21 17:12:10.402 +08:00 [INF] Hosting environment: Development
+2020-03-21 17:12:10.403 +08:00 [INF] Content root path: E:\software\code\AspNetCoreZhaoMvc\AspNetCoreZhaoMvc
+2020-03-21 17:12:10.609 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/  
+2020-03-21 17:12:10.699 +08:00 [INF] Executing endpoint 'AspNetCoreZhaoMvc.Controllers.HomeController.Index (AspNetCoreZhaoMvc)'
+2020-03-21 17:12:10.840 +08:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller AspNetCoreZhaoMvc.Controllers.HomeController (AspNetCoreZhaoMvc).
+2020-03-21 17:12:10.878 +08:00 [INF] Executing ViewResult, running view Index.
+2020-03-21 17:12:11.258 +08:00 [INF] Executed ViewResult - view Index executed in 394.0328ms.
+2020-03-21 17:12:11.267 +08:00 [INF] Executed action AspNetCoreZhaoMvc.Controllers.HomeController.Index (AspNetCoreZhaoMvc) in 423.9261ms
+2020-03-21 17:12:11.271 +08:00 [INF] Executed endpoint 'AspNetCoreZhaoMvc.Controllers.HomeController.Index (AspNetCoreZhaoMvc)'
+2020-03-21 17:12:11.291 +08:00 [INF] Request finished in 689.0913ms 200 text/html; charset=utf-8
